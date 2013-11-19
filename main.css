@@ -66,15 +66,25 @@ h2 {
 	display: block;
 }
 #userInput {
-	width: 40px;
-	height: 10px;
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+	border: 2px solid #b0baad;
 	text-align: center;
+	margin: 10px;
 }
 #checkUserInput {
 	border-radius: 4px;
-	font: bold;
+	background-color: #77d42a;
+	color: #fafbf9;
+	border: 1px solid #268a16;
+	font-size: 14px;
+	width: 120px;
 }
 #startAgain {
 	border-radius: 4px;
-	font: bold;
+	background-color: #da4f49;
+	color: #fafbf9;
+	font-size: 14px;
+	width: 120px;
 }
